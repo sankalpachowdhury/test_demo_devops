@@ -1,1 +1,9 @@
-Hello Sankalpa
+Here is the process guide of using GIT
+
+1. git init <-- at a folder which we want to commit
+2. git remote add origin https://github.com/sankalpachowdhury/test_demo_devops.git
+3. git add -A
+4. git commit -m "commit msg"
+5. git push -u origin master
+6. From now use add -A and commit and push commands and refresh the github repository
+
